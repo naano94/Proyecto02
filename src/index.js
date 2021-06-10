@@ -83,7 +83,7 @@ const Home =() =>
       nemo recusandae maxime nesciunt reprehenderit quidem perferendis 
       earum natus, distinctio quasi omnis esse hic!Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
       Dolorum est reiciendis vitae rerum dignissimos similique rem, 
-      nemo recusandae maxime nesciunt reprehenderit quidem perferendis 
+      nemo recusandae maxima nesciunt reprehenderit quidem perferendis 
       earum natus, distinctio quasi omnis esse hic!
     </p> 
   </div>
