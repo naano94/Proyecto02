@@ -1,0 +1,61 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css");
+
+//font-family:;
+.card
+{
+    width:300px;
+}
+#productos
+{
+    display: flex;
+    justify-content: space-around;
+}
+#equipos p
+{
+    margin-block-end: 50px;
+}
+#contenedor
+{
+    width: 100%;
+    margin: 0 auto;
+}
+nav{
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+nav ul li{
+    display: inline-block;
+    padding: 5px;
+    width: 15%;
+    font-size: 130%;
+    margin-top: 3px;
+}
+a{
+    text-decoration:none;
+    color: white;
+}
+#cabecera
+{
+    width: 100%;
+    text-align: center;
+    float: left;
+    margin-top: 20px;
+    margin-block-end: 70px;
+}
+#principal,#equipos,#precios
+{
+    text-align: justify;
+}
+#subcontenedor
+{
+    margin-block-end: 70px;
+}
+footer
+{
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+
+
