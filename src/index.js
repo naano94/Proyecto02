@@ -130,7 +130,7 @@ const Equipos=() =>
       earum natus, distinctio quasi omnis esse hic!Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
       Dolorum est reiciendis vitae rerum dignissimos similique rem, 
       nemo recusandae maxime nesciunt reprehenderit quidem perferendis 
-      earum natus, distinctio quasi omnis esse hic!Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
+      earum natus, distinctio quasim omnis esse hic!Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
       Dolorum est reiciendis vitae rerum dignissimos similique rem, 
       nemo recusandae maxime nesciunt reprehenderit quidem perferendis
     </p> 
